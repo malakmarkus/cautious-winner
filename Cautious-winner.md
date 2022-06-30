@@ -9,16 +9,16 @@ A regular expression is a sequence of characters that defines a search pattern. 
 ## Table of Contents
 
 - [Match an Email - Regex Tutorial](#match-an-email---regex-tutorial)
-  - [Summary](#summary)
-  - [Table of Contents](#table-of-contents)
-  - [Regex Components](#regex-components)
-    - [Anchors](#anchors)
-    - [Quantifiers](#quantifiers)
-    - [Character Classes](#character-classes)
-    - [Grouping and Capturing](#grouping-and-capturing)
-    - [Bracket Expressions](#bracket-expressions)
-    - [Greedy and Lazy Match](#greedy-and-lazy-match)
-  - [Author](#author)
+- [Summary](#summary)
+- [Table of Contents](#table-of-contents)
+- [Regex Components](#regex-components)
+- [Anchors](#anchors)
+- [Quantifiers](#quantifiers)
+- [Character Classes](#character-classes)
+- [Grouping and Capturing](#grouping-and-capturing)
+- [Bracket Expressions](#bracket-expressions)
+- [Greedy and Lazy Match](#greedy-and-lazy-match)
+- [Author](#author)
 
 ## Regex Components
 
